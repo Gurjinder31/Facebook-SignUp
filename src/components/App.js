@@ -62,6 +62,7 @@ const App = () => {
                     <div className="row">
                         <div className="col-lg-6 mycolumn">      
                     <h3>Connect with friends and the<br /> world around you on Facebook.</h3>
+                    {/* <img src={require("../images/f1.jpg")} alt="connecting" /> */}
                 </div>
                 
                     
